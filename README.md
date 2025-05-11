@@ -6,4 +6,5 @@ Your file should consist of 5 rows and 5 columns of 0s and 1s separated by space
 - 0 means dark square
 # Launch
 `cd /path/to/game_directory/`
+
 `./bin/lights_out`
